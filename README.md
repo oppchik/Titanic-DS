@@ -1,5 +1,7 @@
-| Язык / Language | [EN English](README.en.md) |
-| :--- | :--- |
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Русский_🇷🇺-blue?style=flat-square" alt="RU">
+  <a href="README.en.md"><img src="https://img.shields.io/badge/Language-English_🇬🇧-gray?style=flat-square" alt="EN"></a>
+</p>
 
 ---
 
